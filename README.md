@@ -23,6 +23,7 @@ Here's a handy chart, lifted from wikipedia:
 Suppose you pick door 1 in each of these three scenarios
 
 |Behind door 1|Behind door 2|Behind door 3|Result if you switch|Result if you don't|
+|-|-|-|-|-|
 |Goat|Goat|Car|Win the Car|Win a Goat|
 |Goat|Car|Goat|Win the Car|Win a Goat|
 |Car|Goat|Goat|Win a Goat|Win the Car|
