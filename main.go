@@ -24,7 +24,9 @@ func main(){
         var finalChoice string
         for {
             openDoor = rand.Intn(3)
-            if (openDoor) != choice {
+            //The door the host opens must be a goat, and it must not be the
+            //one chosen by the contestant
+            if (openDoor) != choice && doors[openDoor] == "goat"{
                 break
             }
         }
